@@ -1,2 +1,1 @@
-# Celestial
-A network library for ponyscript 
+**This is an test library**
